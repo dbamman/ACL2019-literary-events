@@ -49,6 +49,7 @@ cd scripts/
 ./bilstm.sentenceCNN.sh
 ./bilstm.documentContext.sh
 ./bert.sh
+./bert.charCNN.sh
 ```
 
 ## 5. Analysis
