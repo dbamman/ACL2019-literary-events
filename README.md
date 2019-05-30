@@ -1,5 +1,9 @@
 # ACL2019-literary-events
 
+Code to support Sims, Park and Bamman (2019), "Literary Event Detection" (ACL).
+
+
+ 
 ## Setup
 
 ```sh
@@ -11,7 +15,7 @@ python -m spacy download en_core_web_sm
 python -m spacy download en
 ```
 
-## Prepare data
+## 1. Prepare data
 
 ```sh
 cd scripts/
@@ -20,13 +24,13 @@ python convertBrat.py
 ./get_gutenberg_embeddings.sh
 ```
 
-## 1. Verb-only baseline
+## 2. Verb-only baseline
 ```sh
 cd scripts/
 ./eval_verb_model.sh
 ```
 
-## 2. Featurized model
+## 3. Featurized model
 
 Download CELEX2 ([LDC96L14](https://catalog.ldc.upenn.edu/LDC96L14)) and place the `celex2/english/esl/esl.cd` file in the `data/` directory.
 
@@ -35,7 +39,7 @@ cd scripts/
 ./eval_featurized_model.sh
 ```
 
-## 3. Neural models
+## 4. Neural models
 
 ```sh
 cd scripts/
@@ -47,7 +51,7 @@ cd scripts/
 ./bert.sh
 ```
 
-## 4. Analysis
+## 5. Analysis
 ```sh
 cd scripts/
 ./analyze_gutenberg.sh
