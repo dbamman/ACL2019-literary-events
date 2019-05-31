@@ -4,13 +4,6 @@ from os.path import isfile, join
 import numpy as np
 from math import sqrt 
 
-exclude={}
-
-def read_litbank_ids(filename):
-	with open(filename) as file:
-		for line in file:
-			exclude[line.rstrip()]=1
-
 def get_ratio(filename):
 	events=0.
 	tokens=0.
@@ -38,13 +31,18 @@ def proc(filename, label, out):
 	distances=[]
 	with open(filename) as csv_file:
 		csv_reader = csv.reader(csv_file)
-		id_col=None
+		id_col=author_col=title_col=None
 		for idx,row in enumerate(csv_reader):
 			if idx == 0:
 				id_col=row.index("Book_ID")
-				# writer.writerow(row)
+				author_col=row.index("Author")
+				title_col=row.index("Title")
+
 				continue
+
 			idd=row[id_col]
+			author=row[author_col]
+			title=row[title_col]
 			path="../analysis/data/gutenberg_clean_tokenized_bert_predictions/%s.txt" % idd
 			events, tokens=get_ratio(path)
 			
@@ -53,7 +51,7 @@ def proc(filename, label, out):
 				distance=tokens/events
 				ratios.append(ratio)
 				distances.append(distance)
-				out.write("%s\t%s\t%.5f\n" % (idd, label, ratio))
+				out.write("%s\t%s\t%.5f\t%s\t%s\n" % (idd, label, ratio, author, title))
 
 	ratio_stderr=np.std(ratios)/sqrt(len(ratios))
 	ratio_lower=np.mean(ratios) - (1.96*ratio_stderr)
@@ -67,13 +65,13 @@ def proc(filename, label, out):
 
 outfile="../analysis/results/prestige.txt"
 with open(outfile, "w") as out:
-	out.write("text\tprestige\tval\n")
+	out.write("text\tprestige\tval\tauthor\ttitle\n")
 	proc("../analysis/metadata/high_prestige.csv", "High prestige", out)
 	proc("../analysis/metadata/low_prestige.csv", "Low prestige", out)
 
 outfile="../analysis/results/popularity.txt"
 with open(outfile, "w") as out:
-	out.write("text\tpopularity\tval\n")
+	out.write("text\tpopularity\tval\tauthor\ttitle\n")
 	proc("../analysis/metadata/high_popularity.csv", "High popularity", out)
 	proc("../analysis/metadata/low_popularity.csv", "Low popularity", out)
 
