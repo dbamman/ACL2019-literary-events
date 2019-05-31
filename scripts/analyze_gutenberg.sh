@@ -39,5 +39,5 @@ do
 done
 
 # calculate popularity/prestige measures
-python event_ratio.py
+python event_ratio.py > ../analysis/data/results/prestige.popularity.txt
 
