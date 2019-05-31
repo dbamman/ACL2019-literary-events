@@ -1,7 +1,7 @@
 ##
 # Below follows the steps for identifying events in texts from Project Gutenberg; 
 # to skip all steps, download processed data here:
-# gutenberg_clean_tokenized_bert.tar.gz
+# http://people.ischool.berkeley.edu/~dbamman/data/gutenberg_clean_tokenized_bert_predictions.tar.gz
 ##
 
 # Remove Gutenberg boilerplate
