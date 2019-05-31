@@ -1,3 +1,9 @@
+##
+# Below follows the steps for identifying events in texts from Project Gutenberg; 
+# to skip all steps, download processed data here:
+# gutenberg_clean_tokenized_bert.tar.gz
+##
+
 # Remove Gutenberg boilerplate
 mkdir ../analysis/data/gutenberg_clean/
 
@@ -39,5 +45,5 @@ do
 done
 
 # calculate popularity/prestige measures
-python event_ratio.py
+python event_ratio.py > ../analysis/results/prestige.popularity.txt
 
