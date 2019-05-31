@@ -25,6 +25,9 @@ def proc(filename, outfile):
 			if re.search("\*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS\*Ver.07/27/01\*END\*", line, re.I) is not None:
 				start=idx
 
+			# 4246
+			if re.search("\*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS\*Ver.10/04/01\*END\*", line, re.I) is not None:
+				start=idx
 
 			# 4721, 4585
 			if re.search("tells you about restrictions in how the file may be used.", line, re.I) is not None:
