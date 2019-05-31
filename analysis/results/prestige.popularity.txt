@@ -1,4 +1,4 @@
-High prestige&4.9 {\small [4.7-5.0]}& 22.0 {\small [20.8-23.1]} \\
-Low prestige&5.6 {\small [5.5-5.7]}& 18.4 {\small [17.8-19.0]} \\
-High popularity&4.8 {\small [4.6-5.0]}& 22.2 {\small [21.3-23.1]} \\
-Low popularity&4.7 {\small [4.5-4.8]}& 23.5 {\small [21.5-25.5]} \\
+High prestige&4.6 {\small [4.4-4.7]}& 23.4 {\small [22.4-24.5]} \\
+Low prestige&5.5 {\small [5.3-5.6]}& 19.2 {\small [18.2-20.1]} \\
+High popularity&4.6 {\small [4.4-4.8]}& 23.2 {\small [22.3-24.1]} \\
+Low popularity&4.5 {\small [4.3-4.7]}& 25.0 {\small [21.9-28.1]} \\

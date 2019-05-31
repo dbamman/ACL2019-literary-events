@@ -1,332 +1,350 @@
-text	prestige	val
-29573	High prestige	0.05288
-416	High prestige	0.06056
-36220	High prestige	0.05635
-15808	High prestige	0.04706
-16092	High prestige	0.06111
-42246	High prestige	0.04857
-7045	High prestige	0.06136
-42801	High prestige	0.03688
-23247	High prestige	0.04355
-27447	High prestige	0.06144
-25829	High prestige	0.04389
-23248	High prestige	0.04676
-35198	High prestige	0.02801
-3805	High prestige	0.04797
-3075	High prestige	0.05152
-18631	High prestige	0.06094
-34619	High prestige	0.03989
-5259	High prestige	0.05656
-2698	High prestige	0.02318
-25448	High prestige	0.05150
-6909	High prestige	0.05708
-34538	High prestige	0.05492
-31320	High prestige	0.04885
-41188	High prestige	0.04009
-8873	High prestige	0.05204
-7414	High prestige	0.05727
-33886	High prestige	0.05287
-54931	High prestige	0.04431
-26698	High prestige	0.05017
-35187	High prestige	0.04244
-8396	High prestige	0.06745
-15135	High prestige	0.05909
-463	High prestige	0.07025
-23250	High prestige	0.05144
-27251	High prestige	0.04386
-42428	High prestige	0.04075
-751	High prestige	0.01695
-45687	High prestige	0.06398
-25344	High prestige	0.02567
-23254	High prestige	0.05444
-16473	High prestige	0.04910
-43423	High prestige	0.04492
-34156	High prestige	0.05713
-2364	High prestige	0.05345
-24827	High prestige	0.05039
-14018	High prestige	0.04168
-28008	High prestige	0.05177
-11163	High prestige	0.03276
-41603	High prestige	0.05607
-13146	High prestige	0.04349
-19614	High prestige	0.04443
-52729	High prestige	0.04580
-40569	High prestige	0.04635
-7443	High prestige	0.06329
-15432	High prestige	0.05538
-26420	High prestige	0.04574
-2081	High prestige	0.03245
-23256	High prestige	0.05269
-42194	High prestige	0.04470
-47061	High prestige	0.05238
-48860	High prestige	0.05968
-32501	High prestige	0.04702
-2666	High prestige	0.01605
-35930	High prestige	0.06444
-9251	High prestige	0.03860
-32620	High prestige	0.06420
-2795	High prestige	0.06420
-2181	High prestige	0.02864
-24828	High prestige	0.04732
-42109	High prestige	0.04627
-41273	High prestige	0.05378
-289	High prestige	0.05525
-144	High prestige	0.05436
-12199	High prestige	0.05307
-33579	High prestige	0.05631
-31510	High prestige	0.06174
-7887	High prestige	0.04514
-7790	High prestige	0.04821
-36958	High prestige	0.05086
-9248	High prestige	0.03237
-9195	High prestige	0.05251
-12349	High prestige	0.04721
-27180	High prestige	0.04211
-31488	High prestige	0.07352
-10342	High prestige	0.05429
-23253	High prestige	0.05474
-37046	High prestige	0.06099
-45648	High prestige	0.04949
-2696	High prestige	0.02660
-14201	High prestige	0.03957
-447	High prestige	0.07287
-10337	High prestige	0.06170
-23810	High prestige	0.04914
-25299	High prestige	0.05460
-31189	High prestige	0.06724
-41107	High prestige	0.04016
-28631	High prestige	0.05296
-30647	High prestige	0.03686
-42233	High prestige	0.05406
-11252	High prestige	0.04053
-33207	High prestige	0.05905
-25446	High prestige	0.04634
-15992	High prestige	0.05245
-35807	High prestige	0.03842
-41917	High prestige	0.05445
-15779	High prestige	0.03646
-12177	High prestige	0.04040
-34218	High prestige	0.04901
-45666	High prestige	0.03745
-7824	High prestige	0.04647
-33985	High prestige	0.05233
-2665	High prestige	0.01968
-8877	High prestige	0.04674
-29500	High prestige	0.04075
-27607	High prestige	0.03922
-40176	High prestige	0.04932
-19085	High prestige	0.04654
-8493	High prestige	0.04700
-34243	High prestige	0.03327
-23784	High prestige	0.04100
-23251	High prestige	0.05842
-23249	High prestige	0.05835
-14021	High prestige	0.04653
-24826	High prestige	0.05270
-35671	High prestige	0.05647
-5670	High prestige	0.05143
-28071	High prestige	0.04527
-8939	High prestige	0.04734
-39558	High prestige	0.04463
-37820	High prestige	0.04367
-6847	High prestige	0.04458
-37189	High prestige	0.05231
-32520	High prestige	0.04838
-3474	High prestige	0.04669
-2182	High prestige	0.02762
-30439	High prestige	0.04488
-2697	High prestige	0.03131
-7048	High prestige	0.05909
-22293	High prestige	0.05316
-8487	High prestige	0.06312
-37079	High prestige	0.04207
-23255	High prestige	0.05092
-35281	High prestige	0.05811
-13944	High prestige	0.04405
-42012	High prestige	0.04811
-3722	Low prestige	0.05271
-9988	Low prestige	0.05210
-39215	Low prestige	0.06188
-14534	Low prestige	0.04997
-81	Low prestige	0.06077
-6058	Low prestige	0.03417
-14211	Low prestige	0.06158
-29776	Low prestige	0.05954
-21664	Low prestige	0.05154
-149	Low prestige	0.06056
-702	Low prestige	0.05054
-41802	Low prestige	0.05820
-111	Low prestige	0.05856
-33066	Low prestige	0.06384
-5895	Low prestige	0.07468
-39216	Low prestige	0.06855
-96	Low prestige	0.06287
-25159	Low prestige	0.06669
-25875	Low prestige	0.05864
-1939	Low prestige	0.07341
-31635	Low prestige	0.05062
-42358	Low prestige	0.05369
-2079	Low prestige	0.06971
-286	Low prestige	0.05070
-26616	Low prestige	0.06624
-6352	Low prestige	0.05975
-48357	Low prestige	0.05161
-38985	Low prestige	0.06998
-10696	Low prestige	0.07133
-4748	Low prestige	0.06951
-14379	Low prestige	0.05020
-17496	Low prestige	0.04486
-16699	Low prestige	0.05857
-32103	Low prestige	0.05072
-14566	Low prestige	0.05826
-14883	Low prestige	0.05415
-4585	Low prestige	0.06753
-38990	Low prestige	0.04735
-19649	Low prestige	0.05669
-12104	Low prestige	0.05143
-35047	Low prestige	0.06638
-72	Low prestige	0.05799
-4721	Low prestige	0.06009
-45944	Low prestige	0.05382
-19539	Low prestige	0.05153
-39294	Low prestige	0.05290
-12106	Low prestige	0.01872
-39138	Low prestige	0.05809
-14875	Low prestige	0.05147
-26617	Low prestige	0.05249
-35393	Low prestige	0.05460
-42099	Low prestige	0.06197
-33964	Low prestige	0.04356
-2020	Low prestige	0.05726
-38871	Low prestige	0.05138
-47113	Low prestige	0.04866
-32225	Low prestige	0.05330
-46317	Low prestige	0.03272
-40102	Low prestige	0.04476
-46250	Low prestige	0.06032
-10084	Low prestige	0.07878
-35746	Low prestige	0.05098
-92	Low prestige	0.07336
-39168	Low prestige	0.06576
-31472	Low prestige	0.04691
-12170	Low prestige	0.07065
-33523	Low prestige	0.05457
-85	Low prestige	0.06339
-46178	Low prestige	0.04809
-42101	Low prestige	0.05475
-26618	Low prestige	0.05394
-40491	Low prestige	0.04874
-17349	Low prestige	0.05337
-26619	Low prestige	0.04316
-28682	Low prestige	0.05766
-1401	Low prestige	0.06746
-33226	Low prestige	0.05107
-32163	Low prestige	0.05452
-6440	Low prestige	0.06033
-3619	Low prestige	0.05627
-68	Low prestige	0.05758
-23683	Low prestige	0.04802
-4702	Low prestige	0.06327
-19485	Low prestige	0.06100
-29100	Low prestige	0.05404
-45963	Low prestige	0.05015
-34277	Low prestige	0.04696
-39295	Low prestige	0.06519
-38978	Low prestige	0.04601
-12405	Low prestige	0.05989
-552	Low prestige	0.05617
-18076	Low prestige	0.05121
-43390	Low prestige	0.05043
-37857	Low prestige	0.04888
-14488	Low prestige	0.05379
-42113	Low prestige	0.05418
-369	Low prestige	0.04830
-33811	Low prestige	0.04868
-35074	Low prestige	0.04810
-16150	Low prestige	0.04655
-39296	Low prestige	0.06923
-14910	Low prestige	0.04666
-46010	Low prestige	0.05068
-4704	Low prestige	0.06952
-551	Low prestige	0.06930
-39214	Low prestige	0.05447
-26391	Low prestige	0.05451
-904	Low prestige	0.04712
-26620	Low prestige	0.05002
-36368	Low prestige	0.05573
-26497	Low prestige	0.04873
-125	Low prestige	0.05893
-33775	Low prestige	0.06279
-13379	Low prestige	0.04880
-9963	Low prestige	0.05104
-4633	Low prestige	0.07272
-39297	Low prestige	0.07393
-17227	Low prestige	0.05725
-363	Low prestige	0.06441
-45804	Low prestige	0.04921
-14917	Low prestige	0.05774
-29405	Low prestige	0.05599
-21959	Low prestige	0.02271
-90	Low prestige	0.06718
-4515	Low prestige	0.07307
-14532	Low prestige	0.04819
-6374	Low prestige	0.04984
-123	Low prestige	0.05588
-39432	Low prestige	0.04562
-28391	Low prestige	0.04023
-36121	Low prestige	0.06507
-331	Low prestige	0.06284
-9849	Low prestige	0.04805
-4707	Low prestige	0.06249
-349	Low prestige	0.04843
-1153	Low prestige	0.05676
-46540	Low prestige	0.04435
-39136	Low prestige	0.06992
-37042	Low prestige	0.04937
-34830	Low prestige	0.05894
-40493	Low prestige	0.05271
-29406	Low prestige	0.06965
-42870	Low prestige	0.05003
-46437	Low prestige	0.05714
-53885	Low prestige	0.06944
-364	Low prestige	0.06455
-1897	Low prestige	0.06818
-14874	Low prestige	0.05152
-106	Low prestige	0.06542
-25017	Low prestige	0.04770
-46537	Low prestige	0.05279
-3475	Low prestige	0.05389
-33521	Low prestige	0.05201
-30428	Low prestige	0.05202
-17020	Low prestige	0.05294
-10066	Low prestige	0.06117
-11668	Low prestige	0.07301
-14909	Low prestige	0.05735
-532	Low prestige	0.05489
-25201	Low prestige	0.05060
-30980	Low prestige	0.06378
-25136	Low prestige	0.04451
-38910	Low prestige	0.05854
-15607	Low prestige	0.05926
-33517	Low prestige	0.05844
-39218	Low prestige	0.04284
-15763	Low prestige	0.06613
-46188	Low prestige	0.05277
-14280	Low prestige	0.05793
-25463	Low prestige	0.04502
-18058	Low prestige	0.05104
-34468	Low prestige	0.04534
-24976	Low prestige	0.05462
-39137	Low prestige	0.05841
-13740	Low prestige	0.05779
-45651	Low prestige	0.04967
-10977	Low prestige	0.06753
-33522	Low prestige	0.06500
-48356	Low prestige	0.05341
-11328	Low prestige	0.06686
-38353	Low prestige	0.04752
-11880	Low prestige	0.05645
-605	Low prestige	0.05979
-42307	Low prestige	0.06335
-9489	Low prestige	0.05108
-38872	Low prestige	0.07144
+text	prestige	val	author	title
+45801	High prestige	0.04254	Benson, E. F. (Edward Frederic)	The House of Defence v. 2
+1059	High prestige	0.02929	Wells, H. G. (Herbert George)	The World Set Free
+29573	High prestige	0.05121	Crane, Stephen	The O'Ruddy: A Romance
+7709	High prestige	0.03362	Lytton, Edward Bulwer Lytton, Baron	My Novel — Volume 08
+780	High prestige	0.05186	Wells, H. G. (Herbert George)	The War in the Air
+416	High prestige	0.05865	Anderson, Sherwood	Winesburg, Ohio: A Group of Tales of Ohio Small Town Life
+7684	High prestige	0.03032	Lytton, Edward Bulwer Lytton, Baron	Harold : the Last of the Saxon Kings — Complete
+36	High prestige	0.06668	Wells, H. G. (Herbert George)	The War of the Worlds
+36220	High prestige	0.05479	Robins, Elizabeth	My Little Sister
+12224	High prestige	0.03478	Whitney, A. D. T. (Adeline Dutton Train)	We Girls: a Home Story
+25919	High prestige	0.04575	Benson, E. F. (Edward Frederic)	Miss Mapp
+35920	High prestige	0.04618	Wells, H. G. (Herbert George)	The Sea Lady
+13997	High prestige	0.02882	Whitney, A. D. T. (Adeline Dutton Train)	Real Folks
+1303	High prestige	0.04859	Caine, Hall, Sir	The Scapegoat
+26986	High prestige	0.04860	Stacpoole, H. De Vere (Henry De Vere)	The Ghost Girl
+15808	High prestige	0.04498	Benson, Robert Hugh	The History of Richard Raynal, Solitary
+7598	High prestige	0.03174	Lytton, Edward Bulwer Lytton, Baron	The Caxtons: A Family Picture — Volume 13
+16092	High prestige	0.06038	Warden, Florence	The Wharf by the Docks: A Novel
+42246	High prestige	0.04657	Richards, Laura Elizabeth Howe	Quicksilver Sue
+7680	High prestige	0.03298	Lytton, Edward Bulwer Lytton, Baron	Harold : the Last of the Saxon Kings — Volume 09
+13417	High prestige	0.05909	Chekhov, Anton Pavlovich	The Cook's Wedding and Other Stories
+7045	High prestige	0.05887	Anderson, Sherwood	Marching Men
+7742	High prestige	0.03285	Lytton, Edward Bulwer Lytton, Baron	The Parisians — Volume 06
+42801	High prestige	0.03524	Ford, Ford Madox	The Young Lovell A Romance
+23247	High prestige	0.03952	Catherwood, Mary Hartwell	The Cursed Patois From "Mackinac And Lake Stories", 1899
+8206	High prestige	0.03428	Lytton, Edward Bulwer Lytton, Baron	The Pilgrims of the Rhine
+27447	High prestige	0.05907	Hergesheimer, Joseph	Mountain Blood: A Novel
+25829	High prestige	0.04276	Bottome, Phyllis	The Dark Tower
+23248	High prestige	0.04420	Catherwood, Mary Hartwell	The Black Feather From "Mackinac And Lake Stories", 1899
+7672	High prestige	0.02022	Lytton, Edward Bulwer Lytton, Baron	Harold : the Last of the Saxon Kings — Volume 01
+7623	High prestige	0.04117	Lytton, Edward Bulwer Lytton, Baron	Pelham — Complete
+33999	High prestige	0.05548	Caine, Hall, Sir	The Bondman: A New Saga
+35198	High prestige	0.02660	Macaulay, Rose	What Not: A Prophetic Comedy
+40797	High prestige	0.04156	Benson, E. F. (Edward Frederic)	Mammon and Co.
+16329	High prestige	0.03114	Whitney, A. D. T. (Adeline Dutton Train)	The Other Girls
+3805	High prestige	0.04650	Merriman, Henry Seton	The Vultures
+3075	High prestige	0.05020	De la Mare, Walter	The Return
+18631	High prestige	0.05835	Catherwood, Mary Hartwell	The Lady of Fort St. John
+34619	High prestige	0.03693	Malet, Lucas	The Gateless Barrier
+7592	High prestige	0.02832	Lytton, Edward Bulwer Lytton, Baron	The Caxtons: A Family Picture — Volume 07
+5259	High prestige	0.05504	Richards, Laura Elizabeth Howe	Hildegarde's Neighbors
+7746	High prestige	0.02639	Lytton, Edward Bulwer Lytton, Baron	The Parisians — Volume 10
+2698	High prestige	0.02182	Holmes, Oliver Wendell	A Mortal Antipathy
+25448	High prestige	0.04905	Richards, Laura Elizabeth Howe	Peggy
+26088	High prestige	0.06322	Caine, Hall, Sir	A Son of Hagar: A Romance of Our Time
+204	High prestige	0.04811	Chesterton, G. K. (Gilbert Keith)	The Innocence of Father Brown
+3019	High prestige	0.05958	Richardson, Dorothy M. (Dorothy Miller)	Pointed Roofs: Pilgrimage, Volume 1
+1696	High prestige	0.05102	Chesterton, G. K. (Gilbert Keith)	The Club of Queer Trades
+6909	High prestige	0.05570	Catherwood, Mary Hartwell	Old Caravan Days
+34538	High prestige	0.05361	Morrison, Arthur	The Hole in the Wall
+31320	High prestige	0.04668	Richards, Laura Elizabeth Howe	The Wooing of Calvin Parks
+30855	High prestige	0.04069	Wells, H. G. (Herbert George)	The Wife of Sir Isaac Harman
+41188	High prestige	0.03849	Richards, Laura Elizabeth Howe	Narcissa, or the Road to Rome; In Verona
+8873	High prestige	0.05039	Merriman, Henry Seton	The Isle of Unrest
+14597	High prestige	0.05224	Caine, Hall, Sir	The Woman Thou Gavest Me Being the Story of Mary O'Neill
+7414	High prestige	0.05523	Anderson, Sherwood	Poor White: A Novel
+33886	High prestige	0.05210	Sudermann, Hermann	The Wish: A Novel
+52501	High prestige	0.05611	Wells, H. G. (Herbert George)	The First Men in the Moon
+159	High prestige	0.07609	Wells, H. G. (Herbert George)	The Island of Doctor Moreau
+1721	High prestige	0.04251	Chesterton, G. K. (Gilbert Keith)	The Trees of Pride
+40719	High prestige	0.04091	Benson, E. F. (Edward Frederic)	Dodo Wonders--
+524	High prestige	0.04419	Wells, H. G. (Herbert George)	Ann Veronica: A Modern Love Story
+54931	High prestige	0.04214	Cannan, Gilbert	Mendel: A Story of Youth
+26698	High prestige	0.04859	Ford, Ford Madox	Privy Seal: His Last Venture
+35187	High prestige	0.04033	Grahame, Kenneth	Dream Days
+44486	High prestige	0.04461	Benson, E. F. (Edward Frederic)	Dodo: A Detail of the Day. Volumes 1 and 2
+8396	High prestige	0.06558	Ollivant, Alfred	The Gentleman: A Romance of the Sea
+1718	High prestige	0.03838	Chesterton, G. K. (Gilbert Keith)	Manalive
+15135	High prestige	0.05566	Hergesheimer, Joseph	The Three Black Pennys: A Novel
+50272	High prestige	0.04106	Colton, Arthur	The Cruise of The Violetta
+463	High prestige	0.06796	Crane, Stephen	The Red Badge of Courage: An Episode of the American Civil War
+23250	High prestige	0.04584	Catherwood, Mary Hartwell	The Skeleton On Round Island From "Mackinac And Lake Stories", 1899
+27251	High prestige	0.04167	Richards, Laura Elizabeth Howe	Some Say; Neighbours in Cyrus
+42428	High prestige	0.03947	Sedgwick, Anne Douglas	Adrienne Toner: A Novel
+751	High prestige	0.01564	Holmes, Oliver Wendell	The Autocrat of the Breakfast-Table
+40795	High prestige	0.03837	Benson, E. F. (Edward Frederic)	Scarlet and Hyssop: A Novel
+45687	High prestige	0.06252	Pool, Maria Louise	Friendship and Folly: A Novel
+1720	High prestige	0.04280	Chesterton, G. K. (Gilbert Keith)	The Man Who Knew Too Much
+25344	High prestige	0.02443	Hawthorne, Nathaniel	The Scarlet Letter
+23254	High prestige	0.05285	Catherwood, Mary Hartwell	The Cobbler In The Devil's Kitchen From "Mackinac And Lake Stories", 1899
+16473	High prestige	0.04800	Richards, Laura Elizabeth Howe	Queen Hildegarde
+43423	High prestige	0.04287	Cannan, Gilbert	Old Mole Being the Surprising Adventures in England of Herbert Jocelyn Beenham, M.A., Sometime Sixth-Form Master at Thrigsby Grammar School in the County of Lancaster
+34156	High prestige	0.05556	Sudermann, Hermann	The Undying Past
+2364	High prestige	0.05107	Crane, Stephen	Active Service
+24827	High prestige	0.04845	Richards, Laura Elizabeth Howe	Rita
+14018	High prestige	0.03951	Richards, Laura Elizabeth Howe	Marie
+28008	High prestige	0.04921	Robins, Elizabeth	Under the Southern Cross
+718	High prestige	0.04147	Wells, H. G. (Herbert George)	Tono-Bungay
+14060	High prestige	0.03385	Wells, H. G. (Herbert George)	Mr. Britling Sees It Through
+11163	High prestige	0.03128	Macaulay, Rose	Potterism: A Tragi-Farcical Tract
+41603	High prestige	0.05457	Richards, Laura Elizabeth Howe	Toto's Merry Winter
+40762	High prestige	0.04154	Benson, E. F. (Edward Frederic)	Dodo's Daughter: A Sequel to Dodo
+45719	High prestige	0.03734	Benson, E. F. (Edward Frederic)	Arundel
+13146	High prestige	0.04251	Miller, Alice Duer	The Beauty and the Bolshevist
+45800	High prestige	0.03530	Benson, E. F. (Edward Frederic)	The House of Defence v. 1
+19614	High prestige	0.04307	Walpole, Hugh	The Dark Forest
+13418	High prestige	0.04803	Chekhov, Anton Pavlovich	The Chorus Girl and Other Stories
+52729	High prestige	0.04430	Cannan, Gilbert	Round the Corner Being the Life and Death of Francis Christopher Folyat, Bachelor of Divinity, and Father of a Large Family
+48505	High prestige	0.05415	Benson, E. F. (Edward Frederic)	David Blaize and the Blue Door
+40569	High prestige	0.04380	Morrison, Arthur	Tales of Mean Streets
+5265	High prestige	0.04700	Chesterton, G. K. (Gilbert Keith)	The Ball and the Cross
+7443	High prestige	0.06087	Anderson, Sherwood	Windy McPherson's Son
+15432	High prestige	0.05368	De la Mare, Walter	Henry Brocken His Travels and Adventures in the Rich, Strange, Scarce-Imaginable Regions of Romance
+26420	High prestige	0.04521	Robins, Elizabeth	The Convert
+50269	High prestige	0.03963	Colton, Arthur	Port Argent: A Novel
+2081	High prestige	0.03063	Hawthorne, Nathaniel	The Blithedale Romance
+23256	High prestige	0.04944	Catherwood, Mary Hartwell	The King Of Beaver, and Beaver Lights From "Mackinac And Lake Stories", 1899
+13413	High prestige	0.05436	Chekhov, Anton Pavlovich	The Party and Other Stories
+42194	High prestige	0.04301	Sedgwick, Anne Douglas	The Rescue
+47061	High prestige	0.05096	Saltus, Edgar	Mr. Incoul's Misadventure
+48860	High prestige	0.05851	Ford, Ford Madox	The Brown Owl: A Fairy Story
+32501	High prestige	0.04533	Grahame, Kenneth	The Golden Age
+2666	High prestige	0.01542	Holmes, Oliver Wendell	The Poet at the Breakfast-Table
+35930	High prestige	0.06261	Jefferies, Richard	Bevis: The Story of a Boy
+9251	High prestige	0.03860	Hawthorne, Nathaniel	An Old Woman's Tale (From: "The Doliver Romance and Other Pieces: Tales and Sketches")
+32620	High prestige	0.06102	De la Mare, Walter	The Three Mulla-mulgars
+2795	High prestige	0.06136	Ollivant, Alfred	Bob, Son of Battle
+2181	High prestige	0.02712	Hawthorne, Nathaniel	The Marble Faun; Or, The Romance of Monte Beni - Volume 1
+13415	High prestige	0.04933	Chekhov, Anton Pavlovich	The Lady with the Dog and Other Stories
+42109	High prestige	0.04447	Sedgwick, Anne Douglas	The Dull Miss Archinard
+393	High prestige	0.05109	Stacpoole, H. De Vere (Henry De Vere)	The Blue Lagoon: A Romance
+41273	High prestige	0.05100	Catherwood, Mary Hartwell	The Story of Tonty
+289	High prestige	0.05376	Grahame, Kenneth	The Wind in the Willows
+144	High prestige	0.05355	Woolf, Virginia	The Voyage Out
+12199	High prestige	0.05057	Catherwood, Mary Hartwell	The Chase of Saint-Castin and Other Stories of the French in the New World
+33579	High prestige	0.05470	Crane, Stephen	Last Words
+31510	High prestige	0.05903	Saltus, Edgar	Mary Magdalen: A Chronicle
+7887	High prestige	0.04370	Walpole, Hugh	Fortitude
+36958	High prestige	0.04839	Morrison, Arthur	A Child of the Jago
+9248	High prestige	0.02990	Hawthorne, Nathaniel	Other Tales and Sketches (From: "The Doliver Romance and Other Pieces: Tales and Sketches")
+9195	High prestige	0.05102	Merriman, Henry Seton	The Slave of the Lamp
+12349	High prestige	0.04606	Walpole, Hugh	The Secret City
+27180	High prestige	0.04063	Walpole, Hugh	The Wooden Horse
+13414	High prestige	0.05398	Chekhov, Anton Pavlovich	Love and Other Stories
+31488	High prestige	0.07155	Crane, Stephen	The Little Regiment, and Other Episodes of the American Civil War
+10342	High prestige	0.05282	Merriman, Henry Seton	The Velvet Glove
+23253	High prestige	0.04951	Catherwood, Mary Hartwell	The Mothers Of Honoré From "Mackinac And Lake Stories", 1899
+37046	High prestige	0.05746	Jefferies, Richard	Greene Ferne Farm
+45648	High prestige	0.04585	Roberts, Morley	Lady Penelope
+2696	High prestige	0.02565	Holmes, Oliver Wendell	Elsie Venner
+14201	High prestige	0.03748	Walpole, Hugh	The Golden Scarecrow
+447	High prestige	0.07076	Crane, Stephen	Maggie: A Girl of the Streets
+10337	High prestige	0.06036	Garnett, David	Lady into Fox
+23810	High prestige	0.04755	Chopin, Kate	At Fault
+25299	High prestige	0.05298	Jefferies, Richard	Wood Magic: A Fable
+13416	High prestige	0.04774	Chekhov, Anton Pavlovich	The Darling and Other Stories
+13419	High prestige	0.05614	Chekhov, Anton Pavlovich	The Bishop and Other Stories
+20058	High prestige	0.03842	Chesterton, G. K. (Gilbert Keith)	The Napoleon of Notting Hill
+31189	High prestige	0.06556	Crane, Stephen	The Monster and Other Stories
+41107	High prestige	0.03802	Bottome, Phyllis	The Second Fiddle
+28631	High prestige	0.05140	Sedgwick, Anne Douglas	Amabel Channice
+30647	High prestige	0.03497	Macaulay, Rose	Mystery at Geneva: An Improbable Tale of Singular Happenings
+42233	High prestige	0.05255	Sedgwick, Anne Douglas	The Third Window
+11252	High prestige	0.03891	Morrison, Arthur	Martin Hewitt, Investigator
+33207	High prestige	0.05630	Saltus, Edgar	The Perfume of Eros: A Fifth Avenue Incident
+15992	High prestige	0.05099	Benson, Robert Hugh	Come Rack! Come Rope!
+35807	High prestige	0.03614	Macaulay, Rose	Non-combatants and Others
+41917	High prestige	0.05192	Sedgwick, Anne Douglas	The Confounding of Camelia
+223	High prestige	0.04404	Chesterton, G. K. (Gilbert Keith)	The Wisdom of Father Brown
+20084	High prestige	0.05866	Stacpoole, H. De Vere (Henry De Vere)	The Beach of Dreams: A Romance
+15779	High prestige	0.03561	Kaye-Smith, Sheila	Joanna Godden
+12177	High prestige	0.03827	Peattie, Elia Wilkinson	The Precipice: A Novel
+45666	High prestige	0.03625	Malet, Lucas	Little Peter: A Christmas Morality for Children of any Age
+33985	High prestige	0.05066	Miller, Alice Duer	Manslaughter
+2665	High prestige	0.01890	Holmes, Oliver Wendell	The Professor at the Breakfast-Table
+29500	High prestige	0.03920	Cannan, Gilbert	Mummery: A Tale of Three Idealists
+11141	High prestige	0.03440	Whitney, A. D. T. (Adeline Dutton Train)	A Summer in Leslie Goldthwaite's Life.
+19085	High prestige	0.04496	Walpole, Hugh	The Prelude to Adventure
+13409	High prestige	0.04845	Chekhov, Anton Pavlovich	The Horse-Stealers and Other Stories
+8493	High prestige	0.04540	Merriman, Henry Seton	The Last Hope
+34243	High prestige	0.03228	Grahame, Kenneth	The Headswoman
+23784	High prestige	0.03938	Malet, Lucas	The History of Sir Richard Calmady: A Romance
+13412	High prestige	0.05188	Chekhov, Anton Pavlovich	The Schoolmaster and Other Stories
+14021	High prestige	0.04604	Benson, Robert Hugh	Lord of the World
+35671	High prestige	0.05473	Robins, Elizabeth	The Messenger
+5670	High prestige	0.04903	Woolf, Virginia	Jacob's Room
+28071	High prestige	0.04340	Morrison, Arthur	The Red Triangle Being Some Further Chronicles of Martin Hewitt, Investigator
+8939	High prestige	0.04574	Merriman, Henry Seton	With Edged Tools
+37820	High prestige	0.04289	Morrison, Arthur	Chronicles of Martin Hewitt
+6847	High prestige	0.04264	Hergesheimer, Joseph	Cytherea
+37189	High prestige	0.05061	West, Rebecca	The Return of the Soldier
+3474	High prestige	0.04459	Walpole, Hugh	Jeremy
+2182	High prestige	0.02607	Hawthorne, Nathaniel	The Marble Faun; Or, The Romance of Monte Beni - Volume 2
+2697	High prestige	0.02927	Holmes, Oliver Wendell	The Guardian Angel
+7048	High prestige	0.05774	Anderson, Sherwood	Triumph of the Egg, and Other Stories
+1695	High prestige	0.05012	Chesterton, G. K. (Gilbert Keith)	The Man Who Was Thursday: A Nightmare
+8487	High prestige	0.06160	Sudermann, Hermann	Dame Care
+37079	High prestige	0.03940	Jefferies, Richard	World's End: A Story in Three Books
+13944	High prestige	0.04259	Jefferies, Richard	After London; Or, Wild England
+42012	High prestige	0.04563	Sedgwick, Anne Douglas	Paths of Judgement
+1314	Low prestige	0.05319	Oppenheim, E. Phillips (Edward Phillips)	The Malefactor
+3722	Low prestige	0.05032	Stratton-Porter, Gene	A Daughter of the Land
+9988	Low prestige	0.04974	Maniates, Belle Kanaris	Amarilly of Clothes-line Alley
+23675	Low prestige	0.06194	Isham, Frederic Stewart	Under the Rose
+39215	Low prestige	0.06053	Weyman, Stanley John	The New Rector
+14534	Low prestige	0.04848	Finley, Martha	Christmas with Grandma Elsie
+81	Low prestige	0.05919	Burroughs, Edgar Rice	The Return of Tarzan
+6058	Low prestige	0.03259	Tourgée, Albion Winegar	Bricks Without Straw: A Novel
+14211	Low prestige	0.05992	Ford, Paul Leicester	Wanted—A Match Maker
+29776	Low prestige	0.05768	Libbey, Laura Jean	Pretty Madcap Dorothy; Or, How She Won a Lover
+21664	Low prestige	0.04977	Castlemon, Harry	George at the Fort; Or, Life Among the Soldiers
+12139	Low prestige	0.05093	Bower, B. M.	The Gringos A Story Of The Old California Days In 1849
+16971	Low prestige	0.04697	Oppenheim, E. Phillips (Edward Phillips)	A Prince of Sinners
+149	Low prestige	0.05915	Burroughs, Edgar Rice	The Lost Continent
+702	Low prestige	0.04904	Young, Martha	Somebody's Little Girl
+41802	Low prestige	0.05643	Castlemon, Harry	Frank in the Mountains
+111	Low prestige	0.05546	Stratton-Porter, Gene	Freckles
+33066	Low prestige	0.06158	Brand, Max	The Garden of Eden
+9267	Low prestige	0.05364	Bower, B. M.	Chip, of the Flying U
+5895	Low prestige	0.07178	Curwood, James Oliver	The Honor of the Big Snows
+39216	Low prestige	0.06710	Weyman, Stanley John	The Snowball
+96	Low prestige	0.06103	Burroughs, Edgar Rice	The Monster Men
+25159	Low prestige	0.06341	Footner, Hulbert	Two on the Trail: A Story of the Far Northwest
+25875	Low prestige	0.05577	Footner, Hulbert	The Woman from Outside [On Swan River]
+51076	Low prestige	0.06162	Oppenheim, E. Phillips (Edward Phillips)	Aaron Rodd, Diviner
+1939	Low prestige	0.07038	Weyman, Stanley John	A Gentleman of France: Being the Memoirs of Gaston de Bonne Sieur de Marsac
+31635	Low prestige	0.04840	Tracy, Louis	The Silent Barrier
+42358	Low prestige	0.05205	Castlemon, Harry	Frank at Don Carlos' Rancho
+2079	Low prestige	0.06770	Weyman, Stanley John	From the Memoirs of a Minister of France
+286	Low prestige	0.04883	Stratton-Porter, Gene	Laddie: A True Blue Story
+26616	Low prestige	0.06445	Leslie, Madeline	Minnie's Pet Dog
+6352	Low prestige	0.05926	Holmes, Mary Jane	Dora Deane; Or, The East India Uncle
+48357	Low prestige	0.05047	Finley, Martha	Elsie and Her Loved Ones
+39732	Low prestige	0.06146	Chipman, William P. (William Pendleton)	Budd Boyd's Triumph; or, The Boy-Firm of Fox Island
+42196	Low prestige	0.07103	Howard, Robert E. (Robert Ervin)	Shadows in Zamboula
+1442	Low prestige	0.05913	Oppenheim, E. Phillips (Edward Phillips)	The Kingdom of the Blind
+38985	Low prestige	0.06873	Weyman, Stanley John	My Lady Rotha: A Romance
+10696	Low prestige	0.06983	Curwood, James Oliver	The Danger Trail
+4748	Low prestige	0.06612	Curwood, James Oliver	Baree, Son of Kazan
+14379	Low prestige	0.04885	Finley, Martha	Elsie at Nantucket
+42188	Low prestige	0.07895	Howard, Robert E. (Robert Ervin)	Shadows in the Moonlight
+1723	Low prestige	0.05782	Bower, B. M.	Cow-Country
+17496	Low prestige	0.04377	Finley, Martha	Elsie at Home
+43916	Low prestige	0.04913	Isham, Frederic Stewart	Nothing But the Truth
+16699	Low prestige	0.05678	Cody, H. A. (Hiram Alfred)	Glen of the High North
+32103	Low prestige	0.04941	Finley, Martha	Elsie in the South
+14566	Low prestige	0.05720	Finley, Martha	Elsie's Motherhood
+26596	Low prestige	0.05843	Oppenheim, E. Phillips (Edward Phillips)	Anna the Adventuress
+14883	Low prestige	0.05238	Finley, Martha	Grandmother Elsie
+41402	Low prestige	0.06144	Oppenheim, E. Phillips (Edward Phillips)	The Yellow House; Master of Men
+13670	Low prestige	0.05351	Bower, B. M.	The Happy Family
+4585	Low prestige	0.06564	Curwood, James Oliver	God's Country—And the Woman
+38990	Low prestige	0.04595	Weyman, Stanley John	Ovington's Bank
+42236	Low prestige	0.06530	Howard, Robert E. (Robert Ervin)	Jewels of Gwahlur
+19649	Low prestige	0.05456	Tracy, Louis	The Captain of the Kansas
+12104	Low prestige	0.04827	Holmes, Mary Jane	Ethelyn's Mistake
+35047	Low prestige	0.06345	Leslie, Madeline	Little Robins' Love One to Another
+72	Low prestige	0.05633	Burroughs, Edgar Rice	Thuvia, Maid of Mars
+4721	Low prestige	0.05807	Holmes, Mary Jane	Darkness and Daylight: A Novel
+42254	Low prestige	0.07313	Howard, Robert E. (Robert Ervin)	Beyond the Black River
+45944	Low prestige	0.05224	Finley, Martha	Elsie Yachting with the Raymonds
+19539	Low prestige	0.04918	Tracy, Louis	The Stowaway Girl
+39294	Low prestige	0.05126	Weyman, Stanley John	The Great House
+12106	Low prestige	0.01784	Lorimer, George Horace	Old Gorgon Graham More Letters from a Self-Made Merchant to His Son
+39138	Low prestige	0.05669	Weyman, Stanley John	Starvecrow Farm
+14875	Low prestige	0.05009	Finley, Martha	Elsie's children
+26617	Low prestige	0.05122	Leslie, Madeline	Minnie's Pet Parrot
+35393	Low prestige	0.05232	Tracy, Louis	The Revellers
+42099	Low prestige	0.06095	Castlemon, Harry	Frank Before Vicksburg The Gun-Boat Series
+33964	Low prestige	0.04138	Hocking, Joseph	The Man Who Rose Again
+2020	Low prestige	0.05592	Burroughs, Edgar Rice	Tarzan the Terrible
+38871	Low prestige	0.04977	Weyman, Stanley John	Chippinge Borough
+47113	Low prestige	0.04672	Tracy, Louis	The Message
+32225	Low prestige	0.05239	Finley, Martha	Elsie at Viamede
+40102	Low prestige	0.04346	Hocking, Joseph	The Passion for Life
+10084	Low prestige	0.07622	Curwood, James Oliver	Kazan
+35746	Low prestige	0.04943	Leslie, Madeline	The Pearl of Peace; or, The Little Peacemaker
+92	Low prestige	0.07140	Burroughs, Edgar Rice	Tarzan and the Jewels of Opar
+39168	Low prestige	0.06428	Weyman, Stanley John	Sophia: A Romance
+31472	Low prestige	0.04491	Tracy, Louis	Cynthia's Chauffeur
+12170	Low prestige	0.06765	Curwood, James Oliver	The Wolf Hunters: A Tale of Adventure in the Wilderness
+33523	Low prestige	0.05363	Leslie, Madeline	Little Frankie at School
+85	Low prestige	0.06175	Burroughs, Edgar Rice	The Beasts of Tarzan
+46178	Low prestige	0.04620	Tracy, Louis	Flower of the Gorse
+42101	Low prestige	0.05245	Castlemon, Harry	Frank on the Prairie
+26618	Low prestige	0.05337	Leslie, Madeline	Minnie's Pet Monkey
+4233	Low prestige	0.05399	Oppenheim, E. Phillips (Edward Phillips)	Jeanne of the Marshes
+35361	Low prestige	0.05007	Oppenheim, E. Phillips (Edward Phillips)	The Wicked Marquis
+40491	Low prestige	0.04692	Du Boisgobey, Fortuné	The Red Lottery Ticket
+17349	Low prestige	0.05178	Castlemon, Harry	Frank among the Rancheros
+1206	Low prestige	0.05228	Bower, B. M.	The Flying U Ranch
+26619	Low prestige	0.04178	Leslie, Madeline	Minnie's Pet Lamb
+28682	Low prestige	0.05636	Leslie, Madeline	Minnie's Pet Cat
+1401	Low prestige	0.06568	Burroughs, Edgar Rice	Tarzan the Untamed
+33226	Low prestige	0.04966	Castlemon, Harry	No Moss; Or, The Career of a Rolling Stone
+3619	Low prestige	0.05336	Holmes, Mary Jane	Cousin Maude
+68	Low prestige	0.05583	Burroughs, Edgar Rice	Warlord of Mars
+23683	Low prestige	0.04616	Leslie, Madeline	Bertie's Home; or, the Way to be Happy
+1931	Low prestige	0.05717	Oppenheim, E. Phillips (Edward Phillips)	The Zeppelin's Passenger
+4702	Low prestige	0.06174	Curwood, James Oliver	The Flaming Forest
+16427	Low prestige	0.05533	Pedler, Margaret	The Splendid Folly
+27811	Low prestige	0.05190	Evans, Augusta J. (Augusta Jane)	Macaria
+34277	Low prestige	0.04470	Tracy, Louis	A Mysterious Disappearance
+1204	Low prestige	0.05363	Bower, B. M.	Cabin Fever
+14249	Low prestige	0.06378	Isham, Frederic Stewart	Half A Chance
+12405	Low prestige	0.05914	Castlemon, Harry	Frank, the Young Naturalist
+552	Low prestige	0.05471	Burroughs, Edgar Rice	The People That Time Forgot
+18076	Low prestige	0.04956	Castlemon, Harry	The Boy Trapper
+14542	Low prestige	0.05714	Bower, B. M.	The Lonesome Trail and Other Stories
+43390	Low prestige	0.04912	Leslie, Madeline	The Factory Boy
+32759	Low prestige	0.07087	Howard, Robert E. (Robert Ervin)	Red Nails
+37857	Low prestige	0.04781	Castlemon, Harry	The Haunted Mine
+39018	Low prestige	0.06574	Oppenheim, E. Phillips (Edward Phillips)	Mr. Marx's Secret
+35074	Low prestige	0.04607	Tracy, Louis	His Unknown Wife
+16150	Low prestige	0.04415	Holmes, Mary Jane	Miss McDonald
+4704	Low prestige	0.06637	Curwood, James Oliver	Nomads of the North: A Story of Romance and Adventure under the Open Stars
+1907	Low prestige	0.05522	Bower, B. M.	Rowdy of the Cross L
+42183	Low prestige	0.06778	Howard, Robert E. (Robert Ervin)	Queen of the Black Coast
+42227	Low prestige	0.06372	Howard, Robert E. (Robert Ervin)	A Witch Shall Be Born
+26391	Low prestige	0.05208	Cody, H. A. (Hiram Alfred)	The Unknown Wrestler
+904	Low prestige	0.04516	Stratton-Porter, Gene	Her Father's Daughter
+36368	Low prestige	0.05363	Cody, H. A. (Hiram Alfred)	If Any Man Sin
+125	Low prestige	0.05731	Stratton-Porter, Gene	A Girl of the Limberlost
+4633	Low prestige	0.07026	Curwood, James Oliver	Philip Steele of the Royal Northwest Mounted Police
+17227	Low prestige	0.05607	Cody, H. A. (Hiram Alfred)	Rod of the Lone Patrol
+42182	Low prestige	0.01446	Howard, Robert E. (Robert Ervin)	The Hyborian Age
+15470	Low prestige	0.04948	Evans, Augusta J. (Augusta Jane)	Inez: A Tale of the Alamo
+14917	Low prestige	0.05578	Tracy, Louis	The Wings of the Morning
+21959	Low prestige	0.02126	Lorimer, George Horace	Letters from a Self-Made Merchant to His Son Being the Letters written by John Graham, Head of the House of Graham & Company, Pork-Packers in Chicago, familiarly known on 'Change as "Old Gorgon Graham," to his Son, Pierrepont, facetiously known to his intimates as "Piggy."
+42209	Low prestige	0.06882	Howard, Robert E. (Robert Ervin)	The Devil in Iron
+4515	Low prestige	0.07105	Curwood, James Oliver	The Golden Snare
+14532	Low prestige	0.04621	Ford, Paul Leicester	The Honorable Peter Stirling and What People Thought of Him
+6374	Low prestige	0.04849	Brebner, Percy James	Princess Maritza
+36121	Low prestige	0.06247	Oyen, Henry	The Snow-Burner
+9849	Low prestige	0.04619	Brebner, Percy James	The Brown Mask
+349	Low prestige	0.04724	Stratton-Porter, Gene	The Harvester
+1299	Low prestige	0.04911	Bower, B. M.	The Heritage of the Sioux
+37042	Low prestige	0.04769	Hocking, Joseph	The Coming of the King
+938	Low prestige	0.05823	Bower, B. M.	Good Indian
+4553	Low prestige	0.04174	Evans, Augusta J. (Augusta Jane)	St. Elmo
+4246	Low prestige	0.05041	Evans, Augusta J. (Augusta Jane)	Beulah
+1897	Low prestige	0.06557	Brand, Max	The Seventh Man
+17020	Low prestige	0.05127	Lorimer, George Horace	The False Gods
+10066	Low prestige	0.05947	Brand, Max	Gunman's Reckoning
+532	Low prestige	0.05207	Stratton-Porter, Gene	At the Foot of the Rainbow
+30980	Low prestige	0.06299	Libbey, Laura Jean	Kidnapped at the Altar; Or, The Romance of that Saucy Jessie Bain
+25136	Low prestige	0.04362	Hocking, Joseph	The Pomp of Yesterday
+42243	Low prestige	0.06132	Howard, Robert E. (Robert Ervin)	The Hour of the Dragon
+15607	Low prestige	0.05750	Holmes, Mary Jane	Family Pride; Or, Purified by Suffering
+10402	Low prestige	0.05958	Isham, Frederic Stewart	A Man and His Money
+39218	Low prestige	0.04195	Hocking, Joseph	The Everlasting Arms
+25463	Low prestige	0.04332	Hocking, Joseph	The Day of Judgment
+34468	Low prestige	0.04382	Brebner, Percy James	Christopher Quarles: College Professor and Master Detective
+24976	Low prestige	0.05304	Hocking, Joseph	Roger Trewinion
+13740	Low prestige	0.05631	Libbey, Laura Jean	Mischievous Maid Faynie
+17718	Low prestige	0.04228	Evans, Augusta J. (Augusta Jane)	Infelice
+16497	Low prestige	0.05229	Pedler, Margaret	The Moon out of Reach
+11880	Low prestige	0.05507	Brand, Max	Ronicky Doone
+9489	Low prestige	0.04835	Stratton-Porter, Gene	Michael O'Halloran

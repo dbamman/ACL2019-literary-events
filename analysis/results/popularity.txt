@@ -1,373 +1,356 @@
-text	popularity	val
-2192	High popularity	0.04864
-3242	High popularity	0.04977
-7100	High popularity	0.04674
-3722	High popularity	0.05271
-43083	High popularity	0.04181
-5405	High popularity	0.04987
-1028	High popularity	0.04173
-39215	High popularity	0.06188
-8188	High popularity	0.06961
-139	High popularity	0.04638
-81	High popularity	0.06077
-37581	High popularity	0.04262
-37364	High popularity	0.04811
-48732	High popularity	0.03883
-14211	High popularity	0.06158
-11052	High popularity	0.04955
-2158	High popularity	0.02700
-5165	High popularity	0.04687
-29568	High popularity	0.04114
-17359	High popularity	0.05536
-42729	High popularity	0.03309
-3464	High popularity	0.06467
-1622	High popularity	0.05337
-49035	High popularity	0.03472
-50557	High popularity	0.04858
-32169	High popularity	0.02927
-122	High popularity	0.04766
-12964	High popularity	0.04852
-52715	High popularity	0.04854
-5895	High popularity	0.07468
-1388	High popularity	0.04816
-5362	High popularity	0.04333
-483	High popularity	0.05749
-18286	High popularity	0.04605
-863	High popularity	0.05391
-12991	High popularity	0.02898
-2424	High popularity	0.07078
-2698	High popularity	0.02318
-42287	High popularity	0.04642
-6352	High popularity	0.05975
-2497	High popularity	0.05534
-41303	High popularity	0.04708
-4287	High popularity	0.05063
-2994	High popularity	0.05757
-31522	High popularity	0.03643
-14284	High popularity	0.05196
-1018	High popularity	0.03465
-9179	High popularity	0.03776
-45178	High popularity	0.03732
-2636	High popularity	0.05714
-6113	High popularity	0.04744
-14708	High popularity	0.02966
-3465	High popularity	0.03703
-9748	High popularity	0.03705
-42428	High popularity	0.04075
-1602	High popularity	0.04584
-2165	High popularity	0.03709
-39858	High popularity	0.02600
-144	High popularity	0.05436
-32224	High popularity	0.03878
-20399	High popularity	0.02907
-25885	High popularity	0.07365
-30486	High popularity	0.03466
-15385	High popularity	0.04122
-42284	High popularity	0.05615
-8147	High popularity	0.04512
-14532	High popularity	0.04819
-17391	High popularity	0.04716
-6719	High popularity	0.04179
-27400	High popularity	0.02263
-350	High popularity	0.04307
-36881	High popularity	0.06787
-48690	High popularity	0.03221
-28489	High popularity	0.05038
-23410	High popularity	0.07492
-5670	High popularity	0.05143
-49282	High popularity	0.05979
-27522	High popularity	0.04790
-33777	High popularity	0.03470
-3241	High popularity	0.05522
-15607	High popularity	0.05926
-37788	High popularity	0.03463
-8374	High popularity	0.02491
-9314	High popularity	0.04726
-2799	High popularity	0.06995
-26610	High popularity	0.04096
-10723	High popularity	0.03499
-30299	High popularity	0.05311
-1098	High popularity	0.04712
-2182	High popularity	0.02762
-3702	High popularity	0.06154
-135	High popularity	0.03830
-2697	High popularity	0.03131
-864	High popularity	0.04743
-1960	High popularity	0.06014
-1902	High popularity	0.03294
-45975	High popularity	0.03558
-3530	High popularity	0.05936
-6255	High popularity	0.04190
-11328	High popularity	0.06686
-4518	High popularity	0.04692
-36221	High popularity	0.05521
-1300	High popularity	0.06230
-20795	High popularity	0.04312
-1367	High popularity	0.04447
-605	High popularity	0.05979
-5076	High popularity	0.06575
-1390	High popularity	0.06295
-2904	High popularity	0.03747
-40764	High popularity	0.06983
-7155	High popularity	0.05125
-9489	High popularity	0.05108
-482	High popularity	0.05228
-1588	High popularity	0.04675
-18000	High popularity	0.03188
-3648	High popularity	0.05101
-5759	High popularity	0.05688
-22066	High popularity	0.05369
-42012	High popularity	0.04811
-42332	High popularity	0.04363
-38872	High popularity	0.07144
-36876	High popularity	0.04386
-28524	High popularity	0.03545
-2344	High popularity	0.04846
-3247	High popularity	0.05827
-5841	High popularity	0.03838
-7102	High popularity	0.04468
-2596	High popularity	0.04834
-3289	High popularity	0.04163
-163	High popularity	0.04941
-786	High popularity	0.04249
-149	High popularity	0.06056
-1858	High popularity	0.04276
-5818	High popularity	0.03891
-111	High popularity	0.05856
-3244	High popularity	0.04876
-26593	High popularity	0.04375
-4605	High popularity	0.04603
-4917	High popularity	0.02974
-20981	High popularity	0.05171
-2348	High popularity	0.04862
-8897	High popularity	0.03339
-7197	High popularity	0.05564
-267	High popularity	0.05036
-30147	High popularity	0.04401
-1624	High popularity	0.05876
-14150	High popularity	0.06348
-16918	High popularity	0.04663
-1416	High popularity	0.04604
-1587	High popularity	0.05095
-2559	High popularity	0.04667
-1407	High popularity	0.04696
-39216	High popularity	0.06855
-96	High popularity	0.06287
-5231	High popularity	0.03197
-49772	High popularity	0.04300
-883	High popularity	0.04709
-5819	High popularity	0.02947
-7248	High popularity	0.03871
-15630	High popularity	0.02649
-42222	High popularity	0.04398
-13152	High popularity	0.04963
-5359	High popularity	0.05385
-460	High popularity	0.05668
-30146	High popularity	0.04075
-3633	High popularity	0.05605
-1939	High popularity	0.07341
-137	High popularity	0.04633
-22061	High popularity	0.04267
-3245	High popularity	0.06024
-30606	High popularity	0.03037
-5233	High popularity	0.05387
-28545	High popularity	0.05112
-1213	High popularity	0.04640
-6997	High popularity	0.04968
-2079	High popularity	0.06971
-5361	High popularity	0.04155
-286	High popularity	0.05070
-676	High popularity	0.04671
-5387	High popularity	0.05789
-38443	High popularity	0.04887
-11656	High popularity	0.05203
-33498	Low popularity	0.04708
-9988	Low popularity	0.05210
-41552	Low popularity	0.03536
-36220	Low popularity	0.05635
-25396	Low popularity	0.04439
-42797	Low popularity	0.03477
-29776	Low popularity	0.05954
-19041	Low popularity	0.05130
-42230	Low popularity	0.03983
-702	Low popularity	0.05054
-42599	Low popularity	0.03923
-10608	Low popularity	0.06628
-32222	Low popularity	0.05201
-20569	Low popularity	0.03638
-40600	Low popularity	0.06336
-40398	Low popularity	0.06234
-15670	Low popularity	0.03232
-42085	Low popularity	0.06398
-1431	Low popularity	0.04453
-37584	Low popularity	0.03313
-37327	Low popularity	0.04398
-32461	Low popularity	0.04806
-38863	Low popularity	0.04430
-32330	Low popularity	0.05212
-39482	Low popularity	0.03410
-39729	Low popularity	0.03971
-35571	Low popularity	0.05213
-18961	Low popularity	0.00518
-43450	Low popularity	0.06051
-21333	Low popularity	0.04657
-27174	Low popularity	0.05130
-16699	Low popularity	0.05857
-1441	Low popularity	0.05565
-25484	Low popularity	0.04343
-39728	Low popularity	0.04181
-49186	Low popularity	0.04442
-37330	Low popularity	0.03067
-10320	Low popularity	0.04464
-9749	Low popularity	0.04793
-3923	Low popularity	0.03949
-8396	Low popularity	0.06745
-38393	Low popularity	0.04547
-14608	Low popularity	0.04843
-36198	Low popularity	0.06440
-45682	Low popularity	0.03448
-35796	Low popularity	0.05434
-38875	Low popularity	0.03763
-11514	Low popularity	0.02499
-33244	Low popularity	0.04909
-46813	Low popularity	0.03429
-33964	Low popularity	0.04356
-48974	Low popularity	0.03741
-16383	Low popularity	0.04350
-47991	Low popularity	0.02636
-12187	Low popularity	0.04649
-38276	Low popularity	0.04265
-40102	Low popularity	0.04476
-15328	Low popularity	0.04343
-43381	Low popularity	0.06670
-49227	Low popularity	0.04342
-38277	Low popularity	0.03747
-13882	Low popularity	0.06448
-28008	Low popularity	0.05177
-43732	Low popularity	0.04723
-38296	Low popularity	0.03921
-11257	Low popularity	0.04516
-19310	Low popularity	0.06226
-24711	Low popularity	0.04721
-48648	Low popularity	0.05249
-41554	Low popularity	0.03947
-13146	Low popularity	0.04349
-19989	Low popularity	0.02673
-26420	Low popularity	0.04574
-11128	Low popularity	0.04841
-16114	Low popularity	0.04018
-36641	Low popularity	0.01448
-42176	Low popularity	0.05074
-30910	Low popularity	0.04902
-11997	Low popularity	0.05612
-19148	Low popularity	0.05173
-42597	Low popularity	0.04325
-45539	Low popularity	0.05432
-33251	Low popularity	0.04455
-46582	Low popularity	0.05189
-13183	Low popularity	0.03490
-48951	Low popularity	0.04640
-37588	Low popularity	0.04191
-2795	Low popularity	0.06420
-7144	Low popularity	0.04438
-42595	Low popularity	0.04056
-28307	Low popularity	0.04810
-43063	Low popularity	0.04092
-3924	Low popularity	0.04618
-38262	Low popularity	0.04090
-38661	Low popularity	0.04914
-19247	Low popularity	0.05304
-32704	Low popularity	0.04533
-45201	Low popularity	0.03931
-16889	Low popularity	0.05486
-38861	Low popularity	0.03359
-14202	Low popularity	0.04150
-26391	Low popularity	0.05451
-14545	Low popularity	0.04318
-36368	Low popularity	0.05573
-35727	Low popularity	0.06759
-5092	Low popularity	0.04546
-23540	Low popularity	0.04614
-2815	Low popularity	0.03970
-17227	Low popularity	0.05725
-11436	Low popularity	0.03847
-38995	Low popularity	0.03080
-12414	Low popularity	0.05428
-25356	Low popularity	0.04531
-48862	Low popularity	0.05142
-23810	Low popularity	0.04914
-6374	Low popularity	0.04984
-13500	Low popularity	0.04179
-45098	Low popularity	0.04850
-36121	Low popularity	0.06507
-9849	Low popularity	0.04805
-15958	Low popularity	0.04405
-13227	Low popularity	0.03714
-7447	Low popularity	0.03810
-7335	Low popularity	0.05659
-3925	Low popularity	0.03313
-20320	Low popularity	0.06126
-37325	Low popularity	0.04349
-37357	Low popularity	0.04739
-45728	Low popularity	0.06094
-40265	Low popularity	0.06358
-38411	Low popularity	0.04571
-13404	Low popularity	0.04090
-37042	Low popularity	0.04937
-38854	Low popularity	0.04230
-12177	Low popularity	0.04040
-38263	Low popularity	0.04820
-33985	Low popularity	0.05233
-25825	Low popularity	0.05425
-13840	Low popularity	0.03785
-41553	Low popularity	0.04688
-33403	Low popularity	0.01485
-8219	Low popularity	0.04056
-32377	Low popularity	0.04784
-546	Low popularity	0.07361
-1036	Low popularity	0.04664
-25995	Low popularity	0.03951
-30980	Low popularity	0.06378
-25136	Low popularity	0.04451
-19010	Low popularity	0.06929
-4383	Low popularity	0.04298
-3926	Low popularity	0.03915
-35671	Low popularity	0.05647
-12904	Low popularity	0.04442
-20699	Low popularity	0.05094
-1971	Low popularity	0.03687
-27587	Low popularity	0.05367
-32271	Low popularity	0.04680
-4050	Low popularity	0.05964
-1906	Low popularity	0.02532
-25507	Low popularity	0.04770
-38865	Low popularity	0.03471
-38853	Low popularity	0.04002
-39218	Low popularity	0.04284
-24458	Low popularity	0.05050
-46588	Low popularity	0.06492
-25463	Low popularity	0.04502
-14409	Low popularity	0.04130
-34468	Low popularity	0.04534
-38394	Low popularity	0.05127
-17455	Low popularity	0.05564
-32581	Low popularity	0.04509
-24976	Low popularity	0.05462
-14748	Low popularity	0.03575
-25481	Low popularity	0.04171
-13740	Low popularity	0.05779
-43731	Low popularity	0.04010
-8730	Low popularity	0.06117
-44195	Low popularity	0.05739
-37252	Low popularity	0.04156
-10476	Low popularity	0.04522
-24201	Low popularity	0.04523
-38862	Low popularity	0.03924
-20984	Low popularity	0.04369
-12028	Low popularity	0.06629
-37253	Low popularity	0.03794
-42596	Low popularity	0.04169
-1877	Low popularity	0.04854
-28291	Low popularity	0.04051
-42600	Low popularity	0.03447
-41890	Low popularity	0.06779
+text	popularity	val	author	title
+2192	High popularity	0.04729	Galsworthy, John	The Dark Flower
+3242	High popularity	0.04801	Connor, Ralph	The Doctor : A Tale of the Rockies
+7100	High popularity	0.04522	Twain, Mark	Adventures of Huckleberry Finn, Chapters 01 to 05
+3247	High popularity	0.05707	Connor, Ralph	The Patrol of the Sun Dance Trail
+5841	High popularity	0.03757	Twain, Mark	Sketches New and Old, Part 6.
+3722	High popularity	0.05032	Stratton-Porter, Gene	A Daughter of the Land
+43083	High popularity	0.04022	Hope, Anthony	A Young Man's Year
+5405	High popularity	0.04785	Beach, Rex	The Ne'er-Do-Well
+1028	High popularity	0.03950	Brontë, Charlotte	The Professor
+39215	High popularity	0.06053	Weyman, Stanley John	The New Rector
+7102	High popularity	0.04318	Twain, Mark	Adventures of Huckleberry Finn, Chapters 11 to 15
+8188	High popularity	0.06820	Alcott, Louisa May	The Mysterious Key and What It Opened
+139	High popularity	0.04452	Doyle, Arthur Conan	The Lost World
+81	High popularity	0.05919	Burroughs, Edgar Rice	The Return of Tarzan
+37581	High popularity	0.04134	Dickens, Charles	The Cricket on the Hearth: A Fairy Tale of Home
+37364	High popularity	0.04606	Kipling, Rudyard	The Second Jungle Book
+48732	High popularity	0.03663	Hugo, Victor	Les Misérables, v. 2/5: Cosette
+14211	High popularity	0.05992	Ford, Paul Leicester	Wanted—A Match Maker
+2596	High popularity	0.04653	Galsworthy, John	The Forsyte Saga, Volume III. Awakening To Let
+11052	High popularity	0.04823	Wharton, Edith	The Custom of the Country
+2158	High popularity	0.02565	Trollope, Anthony	The Prime Minister
+5165	High popularity	0.04596	Corelli, Marie	Innocent : her fancy and his fact
+29568	High popularity	0.04013	Bacheller, Irving	'Charge It': Keeping Up With Harry
+17359	High popularity	0.05405	MacGrath, Harold	Arms and the Woman
+3289	High popularity	0.03955	Doyle, Arthur Conan	The Valley of Fear
+163	High popularity	0.04700	Alcott, Louisa May	Flower Fables
+786	High popularity	0.04006	Dickens, Charles	Hard Times
+42729	High popularity	0.03223	Black, William	Stand Fast, Craig-Royston! (Volume I)
+149	High popularity	0.05915	Burroughs, Edgar Rice	The Lost Continent
+3464	High popularity	0.06240	Rinehart, Mary Roberts	Tish: The Chronicle of Her Escapades and Excursions
+1858	High popularity	0.04028	Kipling, Rudyard	Plain Tales from the Hills
+1622	High popularity	0.05145	Collins, Wilkie	The Law and the Lady
+5818	High popularity	0.03674	Twain, Mark	The Gilded Age, Part 1.
+111	High popularity	0.05546	Stratton-Porter, Gene	Freckles
+49035	High popularity	0.03286	Besant, Walter	The Changeling
+3244	High popularity	0.04694	Connor, Ralph	To Him That Hath: A Tale of the West of Today
+26593	High popularity	0.04235	MacGrath, Harold	The Place of Honeymoons
+50557	High popularity	0.04565	Johnston, Mary	Silver Cross
+32169	High popularity	0.02704	Wiggin, Kate Douglas Smith	Susanna and Sue
+4605	High popularity	0.04396	Collins, Wilkie	Basil
+122	High popularity	0.04550	Hardy, Thomas	The Return of the Native
+12964	High popularity	0.04622	Warner, Susan	Melbourne House, Volume 2
+4917	High popularity	0.02796	Trollope, Anthony	The Kellys and the O'Kellys
+20981	High popularity	0.04988	Hope, Anthony	Tristram of Blent: An Episode in the Story of an Ancient House
+2348	High popularity	0.04592	Doyle, Arthur Conan	The Disappearance of Lady Frances Carfax
+8897	High popularity	0.03196	Trollope, Anthony	Nina Balatka
+7197	High popularity	0.05393	Twain, Mark	The Adventures of Tom Sawyer, Part 5.
+267	High popularity	0.04855	Wharton, Edith	The Touchstone
+30147	High popularity	0.04202	Warner, Susan	Opportunities
+1624	High popularity	0.05686	Collins, Wilkie	The Two Destinies
+14150	High popularity	0.06226	Bacheller, Irving	The Light in the Clearing: A Tale of the North Country in the Time of Silas Wright
+52715	High popularity	0.04669	Deeping, Warwick	A Woman's War: A Novel
+5895	High popularity	0.07178	Curwood, James Oliver	The Honor of the Big Snows
+1388	High popularity	0.04456	Wister, Owen	Padre Ignacio; Or, The Song of Temptation
+5362	High popularity	0.04169	Churchill, Winston	The Inside of the Cup — Volume 07
+16918	High popularity	0.04550	Warner, Susan	Hills of the Shatemuc
+1416	High popularity	0.04337	Dickens, Charles	Mrs. Lirriper's Lodgings
+1587	High popularity	0.04774	Collins, Wilkie	The Black Robe
+2559	High popularity	0.04462	Galsworthy, John	The Forsyte Saga, Volume I. The Man Of Property
+1407	High popularity	0.04449	Dickens, Charles	A Message from the Sea
+39216	High popularity	0.06710	Weyman, Stanley John	The Snowball
+96	High popularity	0.06103	Burroughs, Edgar Rice	The Monster Men
+5231	High popularity	0.03064	Trollope, Anthony	The Way We Live Now
+49772	High popularity	0.04149	Johnston, Mary	Hagar
+883	High popularity	0.04452	Dickens, Charles	Our Mutual Friend
+5819	High popularity	0.02806	Twain, Mark	The Gilded Age, Part 2.
+7248	High popularity	0.03871	Twain, Mark	A Connecticut Yankee in King Arthur's Court, Part 7.
+15630	High popularity	0.02470	Wiggin, Kate Douglas Smith	Polly Oliver's Problem
+42222	High popularity	0.04182	Hope, Anthony	Double Harness
+13152	High popularity	0.04834	Doyle, Arthur Conan	The Firm of Girdlestone
+483	High popularity	0.05575	Tarkington, Booth	The Conquest of Canaan
+5359	High popularity	0.05255	Churchill, Winston	The Inside of the Cup — Volume 04
+460	High popularity	0.05492	Burnett, Frances Hodgson	The Dawn of a To-morrow
+30146	High popularity	0.03932	Warner, Susan	What She Could
+3633	High popularity	0.05429	Collins, Wilkie	Jezebel's Daughter
+18286	High popularity	0.04458	Glasgow, Ellen Anderson Gholson	The Miller Of Old Church
+1939	High popularity	0.07038	Weyman, Stanley John	A Gentleman of France: Being the Memoirs of Gaston de Bonne Sieur de Marsac
+137	High popularity	0.04500	Burnett, Frances Hodgson	Sara Crewe; Or, What Happened at Miss Minchin's Boarding School
+22061	High popularity	0.04150	Warner, Susan	The Carpenter's Daughter
+863	High popularity	0.05180	Christie, Agatha	The Mysterious Affair at Styles
+12991	High popularity	0.02696	Wright, Harold Bell	The Uncrowned King
+3245	High popularity	0.05853	Connor, Ralph	Black Rock: A Tale of the Selkirks
+30606	High popularity	0.02906	Trollope, Anthony	The Landleaguers
+5233	High popularity	0.05173	Beach, Rex	The Iron Trail
+28545	High popularity	0.04716	Warner, Susan	Say and Seal, Volume II
+1213	High popularity	0.04397	Twain, Mark	The Man That Corrupted Hadleyburg
+6997	High popularity	0.04783	Wright, Harold Bell	The Winning of Barbara Worth
+2079	High popularity	0.06770	Weyman, Stanley John	From the Memoirs of a Minister of France
+5361	High popularity	0.03966	Churchill, Winston	The Inside of the Cup — Volume 06
+286	High popularity	0.04883	Stratton-Porter, Gene	Laddie: A True Blue Story
+676	High popularity	0.04500	Dickens, Charles	The Battle of Life
+5387	High popularity	0.05522	Churchill, Winston	The Celebrity, Complete
+2424	High popularity	0.06927	Farnol, Jeffery	Black Bartlemy's Treasure
+2698	High popularity	0.02182	Holmes, Oliver Wendell	A Mortal Antipathy
+38443	High popularity	0.04646	Doyle, Arthur Conan	The Croxley Master: A Great Tale Of The Prize Ring
+11656	High popularity	0.05099	Doyle, Arthur Conan	The Great Shadow and Other Napoleonic Tales
+42287	High popularity	0.04396	Chase, Mary Ellen	The Girl from the Big Horn Country
+6352	High popularity	0.05926	Holmes, Mary Jane	Dora Deane; Or, The East India Uncle
+2497	High popularity	0.05225	Reade, Charles	Put Yourself in His Place
+41303	High popularity	0.04590	Parker, Gilbert	A Ladder of Swords: A Tale of Love, Laughter and Tears
+4287	High popularity	0.04836	Locke, William John	The Red Planet
+2994	High popularity	0.05391	Hichens, Robert	A Spirit in Prison
+31522	High popularity	0.03495	Stowe, Harriet Beecher	The Pearl of Orr's Island: A Story of the Coast of Maine
+14284	High popularity	0.05038	McCutcheon, George Barr	Truxton King: A Story of Graustark
+1018	High popularity	0.03286	Kingsley, Charles	The Water-Babies
+9179	High popularity	0.03648	Allen, James Lane	The Bride of the Mistletoe
+45178	High popularity	0.03551	Broughton, Rhoda	Red as a Rose is She: A Novel
+2636	High popularity	0.05479	Sabatini, Rafael	The Historical Nights' Entertainment: First Series
+6113	High popularity	0.04593	Roe, Edward Payson	A Day of Fate
+14708	High popularity	0.02776	Craik, Dinah Maria Mulock	The Laurel Bush: An Old-Fashioned Love Story
+3465	High popularity	0.03522	Ouida	Under Two Flags
+9748	High popularity	0.03540	Keyes, Frances Parkinson	The Old Gray Homestead
+42428	High popularity	0.03947	Sedgwick, Anne Douglas	Adrienne Toner: A Novel
+1602	High popularity	0.04418	Ferber, Edna	Dawn O'Hara: The Girl Who Laughed
+2165	High popularity	0.03600	Eliot, George	The Lifted Veil
+30486	High popularity	0.03275	Brontë, Charlotte	Shirley
+15385	High popularity	0.04051	Allen, James Lane	A Cathedral Singer
+39858	High popularity	0.02400	Du Maurier, George	Trilby
+42284	High popularity	0.05310	Deeping, Warwick	Love Among the Ruins
+144	High popularity	0.05355	Woolf, Virginia	The Voyage Out
+8147	High popularity	0.04151	Kipling, Rudyard	The Man Who Would Be King
+14532	High popularity	0.04621	Ford, Paul Leicester	The Honorable Peter Stirling and What People Thought of Him
+17391	High popularity	0.04567	MacGrath, Harold	The Princess Elopes
+32224	High popularity	0.03672	Hughes, Thomas	Tom Brown's School Days
+6719	High popularity	0.03984	Roe, Edward Payson	The Earth Trembled
+20399	High popularity	0.02640	Maclaren, Ian	Kate Carnegie and Those Ministers
+25885	High popularity	0.07138	Williams, Ben Ames	All the Brothers Were Valiant
+27400	High popularity	0.02091	Du Maurier, George	The Martian: A Novel
+350	High popularity	0.04131	Ferber, Edna	Fanny Herself
+36881	High popularity	0.06355	Williams, Ben Ames	The Sea Bride
+48690	High popularity	0.03053	Besant, Walter	The Revolt of Man
+28489	High popularity	0.04852	Locke, William John	The Belovéd Vagabond
+23410	High popularity	0.07438	Hichens, Robert	The Spinster 1905
+5670	High popularity	0.04903	Woolf, Virginia	Jacob's Room
+49282	High popularity	0.05856	Farnol, Jeffery	The Chronicles of the Imp: A Romance
+27522	High popularity	0.04609	Chase, Mary Ellen	Virginia of Elk Creek Valley
+33777	High popularity	0.03320	Hughes, Thomas	Tom Brown at Rugby
+3241	High popularity	0.05375	Connor, Ralph	Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail
+15607	High popularity	0.05750	Holmes, Mary Jane	Family Pride; Or, Purified by Suffering
+37788	High popularity	0.03299	Black, William	Judith Shakespeare: Her love affairs and other adventures
+8374	High popularity	0.02355	Kingsley, Charles	Alton Locke, Tailor and Poet: An Autobiography
+9314	High popularity	0.04565	Wright, Harold Bell	The Calling of Dan Matthews
+2799	High popularity	0.06818	Bacheller, Irving	Eben Holden: A Tale of the North Country
+26610	High popularity	0.03860	Lewis, Sinclair	The Trail of the Hawk: A Comedy of the Seriousness of Life
+10723	High popularity	0.03306	Stowe, Harriet Beecher	Betty's Bright Idea; Deacon Pitkin's Farm; and the First Christmas of New England
+30299	High popularity	0.05189	Glasgow, Ellen Anderson Gholson	The Romance of a Plain Man
+1098	High popularity	0.04517	Tarkington, Booth	The Turmoil: A Novel
+2182	High popularity	0.02607	Hawthorne, Nathaniel	The Marble Faun; Or, The Romance of Monte Beni - Volume 2
+3702	High popularity	0.05928	Reade, Charles	Foul Play
+135	High popularity	0.03620	Hugo, Victor	Les Misérables
+2697	High popularity	0.02927	Holmes, Oliver Wendell	The Guardian Angel
+864	High popularity	0.04496	Stevenson, Robert Louis	The Master of Ballantrae: A Winter's Tale
+1960	High popularity	0.05776	Rinehart, Mary Roberts	Sight Unseen
+1902	High popularity	0.03119	Wiggin, Kate Douglas Smith	The Old Peabody Pew: A Christmas Romance of a Country Church
+45975	High popularity	0.03449	Craik, Dinah Maria Mulock	The Little Lame Prince and His Travelling Cloak
+3530	High popularity	0.05741	Sabatini, Rafael	Love-at-Arms Being a Narrative Excerpted from the Chronicles of Urbino During The Dominion of the High and Mighty Messer Guidobaldo Da Montefeltro
+6255	High popularity	0.03708	Parker, Gilbert	There Is Sorrow on the Sea
+11328	High popularity	0.06586	Curwood, James Oliver	The Hunted Woman
+4518	High popularity	0.04580	Wharton, Edith	Madame de Treymes
+36221	High popularity	0.05284	Alcott, Louisa May	Spinning-Wheel Stories
+1300	High popularity	0.05745	Grey, Zane	Riders of the Purple Sage
+20795	High popularity	0.04202	Dickens, Charles	The Cricket on the Hearth
+1367	High popularity	0.04280	Ouida	Findelkind
+605	High popularity	0.05753	Burroughs, Edgar Rice	Pellucidar
+5076	High popularity	0.06425	Beach, Rex	The Spoilers
+1390	High popularity	0.06033	Wister, Owen	The Jimmyjohn Boss, and Other Stories
+2904	High popularity	0.03593	Galsworthy, John	Studies and Essays: Quality, and Others
+40764	High popularity	0.06850	Burnett, Frances Hodgson	Barty Crusoe and His Man Saturday
+7155	High popularity	0.04991	Twain, Mark	The Prince and the Pauper, Part 2.
+9489	High popularity	0.04835	Stratton-Porter, Gene	Michael O'Halloran
+482	High popularity	0.04990	Hardy, Thomas	The Woodlanders
+1588	High popularity	0.04504	Collins, Wilkie	A Rogue's Life
+18000	High popularity	0.03024	Trollope, Anthony	Phineas Finn The Irish Member
+3648	High popularity	0.04847	Churchill, Winston	The Dwelling Place of Light — Volume 3
+5759	High popularity	0.05644	McCutcheon, George Barr	The Day of the Dog
+22066	High popularity	0.05169	Johnston, Mary	The Long Roll
+42012	High popularity	0.04563	Sedgwick, Anne Douglas	Paths of Judgement
+42332	High popularity	0.04246	Corelli, Marie	The Sorrows of Satan or, The Strange Experience of One Geoffrey Tempest, Millionaire: A Romance
+38872	High popularity	0.07040	Weyman, Stanley John	A Little Wizard
+36876	High popularity	0.04142	Hope, Anthony	Helena's Path
+28524	High popularity	0.03396	Warner, Susan	Nobody
+2344	High popularity	0.04669	Doyle, Arthur Conan	The Adventure of the Cardboard Box
+33498	Low popularity	0.04529	Rhodes, Eugene Manlove	Bransford of Rainbow Range Originally Published under the title of Bransford in Arcadia, or, The Little Eohippus
+9988	Low popularity	0.04974	Maniates, Belle Kanaris	Amarilly of Clothes-line Alley
+41552	Low popularity	0.03437	Dowling, Richard	The Weird Sisters: A Romance. Volume 1 (of 3)
+36220	Low popularity	0.05479	Robins, Elizabeth	My Little Sister
+25396	Low popularity	0.04266	May, Sophie	Dotty Dimple At Home
+42797	Low popularity	0.03214	Sherwood, Margaret Pollock	The Worn Doorstep
+29776	Low popularity	0.05768	Libbey, Laura Jean	Pretty Madcap Dorothy; Or, How She Won a Lover
+19041	Low popularity	0.04807	Foote, John Taintor	Blister Jones
+42230	Low popularity	0.03822	Everett-Green, Evelyn	Esther's Charge: A Story for Girls
+702	Low popularity	0.04904	Young, Martha	Somebody's Little Girl
+42599	Low popularity	0.03794	Dowling, Richard	The Duke's Sweetheart: A Romance
+10608	Low popularity	0.06426	Smith, Arthur Cosslett	The Turquoise Cup, and, the Desert
+32222	Low popularity	0.05008	Dahn, Felix	Felicitas: A Tale of the German Migrations: A.D. 476
+20569	Low popularity	0.03505	Peterson, Henry	Dulcibel: A Tale of Old Salem
+40600	Low popularity	0.05997	Whitaker, Herman	Over the Border: A Novel
+40398	Low popularity	0.06048	Whitlock, Brand	The Turn of the Balance
+15670	Low popularity	0.03116	Everett-Green, Evelyn	The Secret Chamber at Chad
+42085	Low popularity	0.06243	Ayres, Ruby M. (Ruby Mildred)	A Bachelor Husband
+1431	Low popularity	0.04296	Schreiner, Olive	Trooper Peter Halket of Mashonaland
+37584	Low popularity	0.03171	Onions, Oliver	A Crooked Mile
+37327	Low popularity	0.04220	Stables, Gordon	O'er Many Lands, on Many Seas
+32461	Low popularity	0.04679	Dahn, Felix	The Scarlet Banner
+38863	Low popularity	0.04238	Wingfield, Lewis	My Lords of Strogue, Vol. 3 (of 3) A Chronicle of Ireland, from the Convention to the Union
+32330	Low popularity	0.04997	Dahn, Felix	A Struggle for Rome, v. 2
+39482	Low popularity	0.03217	Onions, Oliver	Mushroom Town
+39729	Low popularity	0.03799	Stables, Gordon	Courage, True Hearts: Sailing in Search of Fortune
+35571	Low popularity	0.05003	Schubin, Ossip	Felix Lanzberg's Expiation
+18961	Low popularity	0.00360	Lubbock, Percy	The Craft of Fiction
+43450	Low popularity	0.05807	Whitaker, Herman	The Settler
+21333	Low popularity	0.04426	Munro, Neil	Doom Castle
+27174	Low popularity	0.04982	Bruce, Mary Grant	Captain Jim
+16699	Low popularity	0.05678	Cody, H. A. (Hiram Alfred)	Glen of the High North
+1441	Low popularity	0.05409	Schreiner, Olive	The Story of an African Farm
+25484	Low popularity	0.04130	May, Sophie	Captain Horace
+39728	Low popularity	0.03927	Stables, Gordon	In Far Bolivia: A Story of a Strange Wild Land
+49186	Low popularity	0.04126	May, Sophie	Flaxie Growing Up Flaxie Frizzle Stories
+37330	Low popularity	0.02914	Stables, Gordon	Aileen Aroon, A Memoir With other Tales of Faithful Friends and Favourites
+10320	Low popularity	0.04252	May, Sophie	Dotty Dimple at Play
+9749	Low popularity	0.04683	Bailey, H. C. (Henry Christopher)	The Highwayman
+3923	Low popularity	0.03769	Droz, Gustave	Monsieur, Madame, and Bébé — Volume 01
+8396	Low popularity	0.06558	Ollivant, Alfred	The Gentleman: A Romance of the Sea
+38393	Low popularity	0.04348	Palacio Valdés, Armando	The Fourth Estate, vol. 1
+14608	Low popularity	0.04689	May, Sophie	Jimmy, Lucy, and All
+36198	Low popularity	0.06275	Whitaker, Herman	The Mystery of The Barranca
+45682	Low popularity	0.03293	Onions, Oliver	Gray youth: The story of a very modern courtship and a very modern marriage
+35796	Low popularity	0.05350	Crawford, Jack Randall	I Walked in Arden
+38875	Low popularity	0.03585	Wingfield, Lewis	The Maid of Honour: A Tale of the Dark Days of France. Vol. 2 (of 3)
+11514	Low popularity	0.02380	King, Grace Elizabeth	Balcony Stories
+33244	Low popularity	0.04732	Palacio Valdés, Armando	Maximina
+46813	Low popularity	0.03224	Whishaw, Frederick	The Romance of the Woods
+33964	Low popularity	0.04138	Hocking, Joseph	The Man Who Rose Again
+48974	Low popularity	0.03628	Jacobs, Joseph	As Others Saw Him: A Retrospect, A.D. 54
+16383	Low popularity	0.04134	May, Sophie	Dotty Dimple Out West
+47991	Low popularity	0.02488	Munro, Neil	Erchie, My Droll Friend
+12187	Low popularity	0.04483	Freeman, R. Austin (Richard Austin)	The Mystery of 31 New Inn
+38276	Low popularity	0.04121	Stables, Gordon	The Cruise of the Snowbird: A Story of Arctic Adventure
+40102	Low popularity	0.04346	Hocking, Joseph	The Passion for Life
+15328	Low popularity	0.04119	Adams, John Turvill	The Lost Hunter A Tale of Early Times
+43381	Low popularity	0.06248	French, Allen	The Story of Rolf and the Viking's Bow
+49227	Low popularity	0.04043	May, Sophie	Kittyleen Flaxie Frizzle Stories
+38277	Low popularity	0.03535	Stables, Gordon	From Squire to Squatter: A Tale of the Old Land and the New
+13882	Low popularity	0.06339	Freeman, R. Austin (Richard Austin)	John Thorndyke's Cases related by Christopher Jervis and edited by R. Austin Freeman
+28008	Low popularity	0.04921	Robins, Elizabeth	Under the Southern Cross
+43732	Low popularity	0.04536	Munro, Neil	The Shoes of Fortune
+38296	Low popularity	0.03921	Stables, Gordon	Wild Adventures round the Pole Or, The Cruise of the "Snowbird" Crew in the "Arrandoon"
+11257	Low popularity	0.04335	May, Sophie	Little Folks Astray
+19310	Low popularity	0.06012	Jepson, Edgar	Happy Pollyooly: The Rich Little Poor Girl
+24711	Low popularity	0.04657	May, Sophie	Little Prudy
+48648	Low popularity	0.05044	May, Sophie	Doctor Papa
+41554	Low popularity	0.03876	Dowling, Richard	The Weird Sisters: A Romance. Volume 3 (of 3)
+13146	Low popularity	0.04251	Miller, Alice Duer	The Beauty and the Bolshevist
+19989	Low popularity	0.02527	Slosson, Annie Trumbull	Story-Tell Lib
+26420	Low popularity	0.04521	Robins, Elizabeth	The Convert
+11128	Low popularity	0.04690	Freeman, R. Austin (Richard Austin)	The Red Thumb Mark
+16114	Low popularity	0.03842	Adams, John Turvill	The Knight of the Golden Melice A Historical Romance
+36641	Low popularity	0.01335	Sergeant, Adeline	Women Novelists of Queen Victoria's Reign: A Book of Appreciations
+42176	Low popularity	0.04868	Converse, Florence	Long Will
+30910	Low popularity	0.04741	Upward, Allen	The Queen Against Owen
+11997	Low popularity	0.05338	Stables, Gordon	Crusoes of the Frozen North
+19148	Low popularity	0.04936	Luther, Mark Lee	The Henchman
+42597	Low popularity	0.04207	Dowling, Richard	The Last Call: A Romance (Vol. 3 of 3)
+45539	Low popularity	0.05233	Onions, Oliver	The Compleat Bachelor
+33251	Low popularity	0.04239	Grayson, David	Hempfield: A Novel
+46582	Low popularity	0.05033	Whishaw, Frederick	Clutterbuck's Treasure
+13183	Low popularity	0.03400	Everett-Green, Evelyn	In the Days of Chivalry: A Tale of the Times of the Black Prince
+37588	Low popularity	0.03983	Stables, Gordon	The Island of Gold: A Sailor's Yarn
+2795	Low popularity	0.06136	Ollivant, Alfred	Bob, Son of Battle
+7144	Low popularity	0.04248	Lawson, Henry	While the Billy Boils
+42595	Low popularity	0.03957	Dowling, Richard	The Last Call: A Romance (Vol. 1 of 3)
+28307	Low popularity	0.04596	Trumbull, Annie Eliot	A Christmas Accident and Other Stories
+43063	Low popularity	0.03905	Onions, Oliver	A Case in Camera
+3924	Low popularity	0.04451	Droz, Gustave	Monsieur, Madame, and Bébé — Volume 02
+38262	Low popularity	0.03919	Stables, Gordon	Wild Adventures in Wild Places
+38661	Low popularity	0.04776	Miller, Thomas	A Walk and a Drive.
+32704	Low popularity	0.04310	Rhodes, Eugene Manlove	Stepsons of Light
+45201	Low popularity	0.03708	Everett-Green, Evelyn	Fallen Fortunes
+16889	Low popularity	0.05303	Morrow, Honoré	The Enchanted Canyon
+38861	Low popularity	0.03206	Wingfield, Lewis	My Lords of Strogue, Vol. 1 (of 3) A Chronicle of Ireland, from the Convention to the Union
+26391	Low popularity	0.05208	Cody, H. A. (Hiram Alfred)	The Unknown Wrestler
+14545	Low popularity	0.04093	Rhodes, Eugene Manlove	Copper Streak Trail
+36368	Low popularity	0.05363	Cody, H. A. (Hiram Alfred)	If Any Man Sin
+35727	Low popularity	0.06549	Whitlock, Brand	Her Infinite Variety
+5092	Low popularity	0.04222	O'Grady, Standish	The Coming of Cuculain
+2815	Low popularity	0.03780	Adams, Henry	Democracy, an American novel
+17227	Low popularity	0.05607	Cody, H. A. (Hiram Alfred)	Rod of the Lone Patrol
+11436	Low popularity	0.03671	Taylor, Bayard	Stories by American Authors, Volume 1
+38995	Low popularity	0.02908	Miller, Thomas	The Sheep and Lamb
+12414	Low popularity	0.05328	Barbusse, Henri	The Inferno
+23810	Low popularity	0.04755	Chopin, Kate	At Fault
+6374	Low popularity	0.04849	Brebner, Percy James	Princess Maritza
+13500	Low popularity	0.04115	Everett-Green, Evelyn	A Heroine of France: The Story of Joan of Arc
+45098	Low popularity	0.04651	Whishaw, Frederick	Boris the Bear-Hunter
+36121	Low popularity	0.06247	Oyen, Henry	The Snow-Burner
+9849	Low popularity	0.04619	Brebner, Percy James	The Brown Mask
+15958	Low popularity	0.04220	Everett-Green, Evelyn	French and English: A Story of the Struggle in America
+13227	Low popularity	0.03622	Everett-Green, Evelyn	The Lord of Dynevor: A Tale of the Times of Edward the First
+7447	Low popularity	0.03624	Lawson, Henry	The Rising of the Court
+7335	Low popularity	0.05568	Hemyng, Bracebridge	Jack Harkaway and His Son's Escape from the Brigands of Greece
+3925	Low popularity	0.03235	Droz, Gustave	Monsieur, Madame, and Bébé — Volume 03
+20320	Low popularity	0.05970	Hemyng, Bracebridge	Jack Harkaway's Boy Tinker Among The Turks Book Number Fifteen in the Jack Harkaway Series
+45728	Low popularity	0.05806	Whitlock, Brand	The Happy Average
+40265	Low popularity	0.06209	Hawes, Charles Boardman	The Great Quest A romance of 1826, wherein are recorded the experiences of Josiah Woods of Topham, and of those others with whom he sailed for Cuba and the Gulf of Guinea
+38411	Low popularity	0.04380	Palacio Valdés, Armando	Froth: A Novel
+13404	Low popularity	0.03927	Everett-Green, Evelyn	Tom Tufton's Travels
+37042	Low popularity	0.04769	Hocking, Joseph	The Coming of the King
+38854	Low popularity	0.04088	Wingfield, Lewis	The Maid of Honour: A Tale of the Dark Days of France. Vol. 3 (of 3)
+12177	Low popularity	0.03827	Peattie, Elia Wilkinson	The Precipice: A Novel
+33985	Low popularity	0.05066	Miller, Alice Duer	Manslaughter
+25825	Low popularity	0.05185	French, Allen	At Plattsburg
+13840	Low popularity	0.03654	Everett-Green, Evelyn	The Sign of the Red Cross: A Tale of Old London
+41553	Low popularity	0.04582	Dowling, Richard	The Weird Sisters: A Romance. Volume 2 (of 3)
+33403	Low popularity	0.01422	Stein, Gertrude	Geography and Plays
+8219	Low popularity	0.03842	Foote, Mary Hallock	The Desert and the Sown
+32377	Low popularity	0.04578	Dahn, Felix	A Struggle for Rome, v. 3
+546	Low popularity	0.07241	Stout, Rex	Under the Andes
+1036	Low popularity	0.04499	Lawson, Henry	Joe Wilson and His Mates
+30980	Low popularity	0.06299	Libbey, Laura Jean	Kidnapped at the Altar; Or, The Romance of that Saucy Jessie Bain
+25136	Low popularity	0.04362	Hocking, Joseph	The Pomp of Yesterday
+19010	Low popularity	0.06739	Jepson, Edgar	The Admirable Tinker Child of the World
+4383	Low popularity	0.04051	Hémon, Louis	Maria Chapdelaine: A Tale of the Lake St. John Country
+3926	Low popularity	0.03724	Droz, Gustave	Monsieur, Madame, and Bébé — Complete
+35671	Low popularity	0.05473	Robins, Elizabeth	The Messenger
+12904	Low popularity	0.04225	Barbusse, Henri	Light
+1971	Low popularity	0.03518	Butler, Samuel	Erewhon Revisited Twenty Years Later, Both by the Original Discoverer of the Country and by His Son
+27587	Low popularity	0.05083	Davis, William Stearns	A Victor of Salamis
+32271	Low popularity	0.04498	Dahn, Felix	A Struggle for Rome, v. 1
+4050	Low popularity	0.05699	Bruce, Mary Grant	Mates at Billabong
+1906	Low popularity	0.02376	Butler, Samuel	Erewhon; Or, Over the Range
+38865	Low popularity	0.03274	Wingfield, Lewis	The Maid of Honour: A Tale of the Dark Days of France. Vol. 1 (of 3)
+38853	Low popularity	0.03751	Wingfield, Lewis	The Curse of Koshiu: A Chronicle of Old Japan
+39218	Low popularity	0.04195	Hocking, Joseph	The Everlasting Arms
+24458	Low popularity	0.04886	Morrow, Honoré	Still Jim
+46588	Low popularity	0.06361	Hemyng, Bracebridge	Jack Harkaway in New York; or, The Adventures of the Travelers' Club
+25463	Low popularity	0.04332	Hocking, Joseph	The Day of Judgment
+14409	Low popularity	0.03952	Adams, Henry	Esther
+34468	Low popularity	0.04382	Brebner, Percy James	Christopher Quarles: College Professor and Master Detective
+38394	Low popularity	0.04900	Palacio Valdés, Armando	The Fourth Estate, vol. 2
+17455	Low popularity	0.05256	Chatterji, Bankim Chandra	The Poison Tree: A Tale of Hindu Life in Bengal
+32581	Low popularity	0.04258	Kelly, Myra	Little Aliens
+24976	Low popularity	0.05304	Hocking, Joseph	Roger Trewinion
+14748	Low popularity	0.03438	Everett-Green, Evelyn	For the Faith: A Story of the Young Pioneers of Reformation in Oxford
+13740	Low popularity	0.05631	Libbey, Laura Jean	Mischievous Maid Faynie
+43731	Low popularity	0.03748	Munro, Neil	Bud: A Novel
+8730	Low popularity	0.05886	Bruce, Mary Grant	A Little Bush Maid
+44195	Low popularity	0.05555	Gibbon, Perceval	Flower o' the Peach
+10476	Low popularity	0.04406	Freeman, R. Austin (Richard Austin)	The Vanishing Man A Detective Romance
+24201	Low popularity	0.04408	Freeman, R. Austin (Richard Austin)	The Eye of Osiris
+38862	Low popularity	0.03749	Wingfield, Lewis	My Lords of Strogue, Vol. 2 (of 3) A Chronicle of Ireland, from the Convention to the Union
+12028	Low popularity	0.06463	Freeman, R. Austin (Richard Austin)	The Uttermost Farthing A Savant's Vendetta
+42596	Low popularity	0.04000	Dowling, Richard	The Last Call: A Romance (Vol. 2 of 3)
+1877	Low popularity	0.04643	Peattie, Elia Wilkinson	A Mountain Woman
+42600	Low popularity	0.03335	Dowling, Richard	Under St Paul's: A Romance
+41890	Low popularity	0.06512	French, Allen	The Barrier: A Novel
