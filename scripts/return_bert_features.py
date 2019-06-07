@@ -113,8 +113,8 @@ def read_sentences(filenames, case_sensitive_embeddings=True):
           # for BERT word piece tokenization
           word = re.sub("^##", "-##", word)
 
-          if case_sensitive_embeddings:
-            word=word.lower()
+#           if case_sensitive_embeddings:
+#             word=word.lower()
 
           word_seq.append(word)
           orig_line.append(line.rstrip())
